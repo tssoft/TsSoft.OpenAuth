@@ -1,2 +1,2 @@
-TsSoft.OpenAuth
-===============
+TsSoft.DotNetOpenAuth
+=====================
