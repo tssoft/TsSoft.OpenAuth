@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TsSoft.DotNetOpenAuth")]
-[assembly: AssemblyDescription("DotNetOpenAuth")]
+[assembly: AssemblyTitle("TsSoft.OpenAuth")]
+[assembly: AssemblyDescription("OAuth 2.0 client for VK social network, using DotNetOpenAuth library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TsSoft.DotNetOpenAuth")]
+[assembly: AssemblyCompany("TS Soft")]
+[assembly: AssemblyProduct("TsSoft.OpenAuth")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

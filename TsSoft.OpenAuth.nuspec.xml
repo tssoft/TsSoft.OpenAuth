@@ -3,14 +3,14 @@
   <metadata>
     <id>TsSoft.OpenAuth</id>
     <version>REPLACEME</version>
-    <authors>TS Soft</authors>
-    <owners>TS Soft</owners>
-    <!-- <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl> -->
-    <projectUrl>http://ts-soft.ru/dev/openauth.net/</projectUrl>
+    <authors>tssoft</authors>
+    <owners>tssoft</owners>
+    <licenseUrl>http://creativecommons.org/licenses/by/3.0/</licenseUrl>
+    <projectUrl>https://github.com/tssoft/TsSoft.OpenAuth/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>REPLACEME</description>
     <copyright>REPLACEME</copyright>
-    <tags>DotNetOpenAuth</tags>
+    <tags>DotNetOpenAuth OAuth2 VK VKontakte</tags>
     <dependencies>
       <dependency id="Microsoft.Net.Http" version="[2,3)" />
       <dependency id="Newtonsoft.Json" version="[4.5,5)" />
